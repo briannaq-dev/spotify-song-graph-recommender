@@ -1,6 +1,7 @@
 # Spotify Song Graph Recommender
+### For DS4300: Large-Scale Information Storage and Retrieval SEC 01 S2026
 
-A music recommendation engine built as a **graph database**. Each song is a node in Neo4j, similar songs are connected by edges, and recommendations come from walking the graph outward from songs you already like. Built for DS4300 (Large-Scale Information Storage and Retrieval).
+A music recommendation engine built as a **graph database**. Each song is a node in Neo4j, similar songs are connected by edges, and recommendations come from walking the graph outward from songs you already like.
 
 ![Song similarity graph](visualisation.png)
 
